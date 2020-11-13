@@ -1,0 +1,6 @@
+G:\С#\KeyboardHook\KeyboardHook\bin\Release\KeyboardHook.dll
+G:\С#\KeyboardHook\KeyboardHook\bin\Release\KeyboardHook.pdb
+G:\С#\KeyboardHook\KeyboardHook\obj\Release\KeyboardHook.csprojAssemblyReference.cache
+G:\С#\KeyboardHook\KeyboardHook\obj\Release\KeyboardHook.csproj.CoreCompileInputs.cache
+G:\С#\KeyboardHook\KeyboardHook\obj\Release\KeyboardHook.dll
+G:\С#\KeyboardHook\KeyboardHook\obj\Release\KeyboardHook.pdb
