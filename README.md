@@ -33,3 +33,6 @@ Timer.Tick += delegate (object sender, EventArgs e)
 };
 Timer.Start();
 ```
+
+# License
+MIT - do whatever you want.
